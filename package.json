@@ -5,20 +5,19 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "cm": "git-cz"
   },
   "dependencies": {
-    "@mdx-js/loader": "^0.16.5",
+    "@mdx-js/loader": "^0.16.8",
     "@mdx-js/mdx": "^0.16.5",
-    "@zeit/next-mdx": "^1.2.0",
-    "next": "^7.0.2",
+    "next": "latest",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
-    "remark-emoji": "^2.0.2",
-    "remark-images": "^0.16.1",
     "unified-ui": "^0.0.3"
   },
   "devDependencies": {
+    "@zeit/next-mdx": "^1.2.0",
     "cz-conventional-changelog": "^2.1.0"
   },
   "config": {
