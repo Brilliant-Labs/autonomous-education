@@ -12,7 +12,7 @@ This framework was designed with a few features in mind. Firstly, there are no a
 
 What is the **smallest** unit of functionality required to achieve your goal?
 
-If you were making tinder for rescued puppies (maybe named _hot doggo_?), you might start with enabling animal shelter volunteers to upload pictures of the puppers with their smart phones, and saving them somewhere so anyone can browse them.
+If you were making tinder for rescued puppies (maybe named _hot doggo_? :dog: ), you might start with enabling animal shelter volunteers to upload pictures of the puppers with their smart phones, and saving them somewhere so anyone can browse them.
 
 We are pretty sure about 2 things at this point, we want to make an app, and it needs access to the camera.
 

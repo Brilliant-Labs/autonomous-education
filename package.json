@@ -6,14 +6,17 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "cm": "git-cz"
+    "cm": "git-cz",
+    "deploy": "now && now alias"
   },
   "dependencies": {
     "@mdx-js/loader": "^0.16.8",
     "@mdx-js/mdx": "^0.16.5",
-    "next": "latest",
+    "next": "^8.0.3",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
+    "remark-emoji": "^2.0.2",
+    "remark-images": "^0.18.0",
     "unified-ui": "^0.0.3"
   },
   "devDependencies": {
