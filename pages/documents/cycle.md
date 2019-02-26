@@ -1,0 +1,1 @@
+The cycle is the feedback loop that starts with an action as an input, the technology will then return feedback. Sometimes the feedback comes in the form of an error. Whatever form the feedback takes it can be researched, and influence the next action. This cycle continues until the system has reached the desired state.
